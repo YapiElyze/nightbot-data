@@ -1,0 +1,4 @@
+{
+  "menu": ["mie", "nasi", "bakso", "sop", "soto", "ayam", "ikan", "telur", "nugget", "roti", "salad", "sayur", "kentang", "nasi kuning", "seblak nasi", "sate", "rendang", "gado-gado"],
+  "kualitas": ["basi", "gosong", "dingin", "tumpah", "belatung", "mentah", "asin", "tawar", "pedas", "bau", "enak", "bergizi", "hangat", "spesial", "jumbo", "lezat", "wangi", "baru", "istimewa", "berlendir", "pahit"]
+}
