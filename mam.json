@@ -1,12 +1,12 @@
 {
-  "karbo": ["Nasi Putih", "Nasi Merah", "Nasi Jagung", "Kentang Rebus", "Ubi Cilembu", "Nasi Uduk", "Bubur Nasi", "Lontong", "Singkong Goreng", "Nasi Kuning", "Nasi Goreng", "Bihun Rebus", "Mie Instan", "Nasi Liwet", "Sego Kucing"],
-  "k_karbo": ["Lembek", "Keras Kayak Batu", "Wangi Pandan", "Pulen Banget", "Agak Basi", "Anget-anget Kuku", "Porsi Kuli", "Sedikit Banget", "Gak Mateng", "Gurih Santan"],
-  "lauk": ["Ayam Geprek", "Ikan Tongkol", "Telur Dadar", "Semur Daging", "Lele Goreng", "Tahu Tempe", "Pepes Ayam", "Cumi Asin", "Dendeng Balado", "Sate Usus", "Perkedel", "Telur Ceplok", "Ayam Serundeng", "Ikan Asin", "Nugget"],
-  "k_lauk": ["Garing Pol", "Kedinginan", "Asin Banget", "Bumbu Meresap", "Minyakan", "Aneh Rasanya", "Empuk Banget", "Pedas Mampus", "Gosong", "Juara Dunia"],
-  "sayur": ["Sayur Sop", "Sayur Bayam", "Cah Kangkung", "Tumis Buncis", "Sayur Asem", "Capcay", "Urap", "Gudeg", "Lodeh", "Sayur Kelor", "Orak-arik Wortel", "Lalapan", "Cah Brokoli", "Tumis Labu", "Pecel"],
-  "k_sayur": ["Layu", "Segar", "Kebanyakan Air", "Krenyes-krenyes", "Hambar", "Wangi Bawang", "Masih Panas", "Bikin Sehat", "Pahit Dikit", "Mantul"],
-  "buah": ["Pisang", "Pepaya", "Jeruk", "Semangka", "Melon", "Salak", "Sawo", "Apel", "Manggis", "Rambutan", "Nanas", "Anggur", "Kelengkeng", "Bengkoang", "Kesemek"],
-  "k_buah": ["Manis Madu", "Kecut Banget", "Mateng Karbitan", "Segar", "Banyak Bijinya", "Udah Lembek", "Gede Banget", "Masih Hijau", "Wanginya Enak", "Dingin Kulkas"],
-  "minum": ["Susu Putih", "Susu Cokelat", "Air Mineral", "Susu Kedelai", "Teh Hangat", "Es Jeruk", "Kopi Hitam", "Susu Jahe", "Es Teh", "Susu Stroberi", "Jus Alpukat", "Yogurt", "Santan", "Wedang Ronde", "Air Putih Gelas"],
-  "k_minum": ["Segar", "Creamy", "Tawar", "Kebanyakan Es", "Manis Banget", "Udah Dingin", "Murni", "Bau Plastik", "Nikmat", "Pahit"]
+  "karbo": ["Nasi Putih", "Nasi Kuning", "Nasi Uduk", "Mie Instan", "Kentang Rebus", "Bubur Nasi", "Lontong", "Nasi Merah", "Nasi Goreng", "Bihun"],
+  "k_karbo": ["anget", "dingin", "pulen parah", "lembek banget", "porsi kuli", "dikit doang", "gak mateng", "gurih", "anyep", "keras"],
+  "lauk": ["Ayam Geprek", "Telur Dadar", "Lele Goreng", "Semur Daging", "Nugget", "Ikan Tongkol", "Tahu Tempe", "Sate Usus", "Cumi Asin", "Perkedel"],
+  "k_lauk": ["pedes mampus", "asin banget", "garing pol", "minyakan", "empuk", "gosong dikit", "bumbunya berasa", "dingin", "juara", "kering"],
+  "sayur": ["Sayur Sop", "Sayur Bayam", "Cah Kangkung", "Tumis Buncis", "Sayur Asem", "Capcay", "Urap", "Lalapan", "Cah Brokoli", "Pecel"],
+  "k_sayur": ["seger", "layu", "hambar", "kebanyakan air", "panas", "krenyes", "manis", "asin", "pahit", "mantap"],
+  "buah": ["Pisang", "Pepaya", "Jeruk", "Semangka", "Melon", "Salak", "Apel", "Manggis", "Nanas", "Anggur"],
+  "k_buah": ["manis madu", "kecut", "seger parah", "udah lembek", "dingin kulkas", "masih ijo", "gede", "busuk dikit", "manis", "sepet"],
+  "minum": ["Susu Putih", "Susu Cokelat", "Air Mineral", "Susu Kedelai", "Teh Anget", "Es Jeruk", "Es Teh", "Susu Stroberi", "Yogurt", "Santan"],
+  "k_minum": ["seger", "creamy", "tawar", "kebanyakan es", "manis banget", "dingin", "nikmat", "bau plastik", "hambar", "pahit"]
 }
